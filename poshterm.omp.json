@@ -8,6 +8,7 @@
           "background": "#00c7fc",
           "foreground": "#000000",
           "leading_diamond": "\ue0b6",
+	  "trailing_diamond": "\ue0b4",
           "style": "diamond",
           "template": "{{ if .SSHSession }}\uf120 ssh {{ end }} ",
           "type": "session"
