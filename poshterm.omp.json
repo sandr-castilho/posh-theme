@@ -89,7 +89,7 @@
             "always_enabled": true
           },
           "style": "powerline",
-          "template": " \ufbab {{ .FormattedMs }} ",
+          "template": " \ufbab\u2800{{ .FormattedMs }} ",
           "type": "executiontime"
         },
         {
