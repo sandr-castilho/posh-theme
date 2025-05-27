@@ -24,7 +24,7 @@ Config Version: 3
 | python          | Python version/virtualenv                                     |
 | executiontime   | Command execution time                                        |
 | time            | Current time (hour:min)                                       |
-| timec           | A different emoji every day of the month                      |
+| time            | A different emoji every day of the month                      |
 | exit/status     | Last command exit status                                      |
 | text            | Username indicator                                            |
 | root            | Root/admin indicator                                          |
