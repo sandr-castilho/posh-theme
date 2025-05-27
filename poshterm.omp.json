@@ -76,7 +76,7 @@
             "fetch_virtual_env": true
           },
           "style": "powerline",
-          "template": " \ue235 {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }} ",
+          "template": " \ue235 {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}({{ .Venv }}) {{ end }}{{ .Full }}{{ end }} ",
           "foreground": "#111111",
           "powerline_symbol": "\ue0b0",
           "background": "#FFDE57",
